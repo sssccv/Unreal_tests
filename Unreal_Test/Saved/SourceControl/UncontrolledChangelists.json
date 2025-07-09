@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PC/Desktop/Unreal_tests/Unreal_Test/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/PC/Desktop/Unreal_tests/Unreal_Test/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/PC/Desktop/Unreal_tests/Unreal_Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/PC/Desktop/Unreal_tests/Unreal_Test/Content/IA__.uasset",
+				"C:/Users/PC/Desktop/Unreal_tests/Unreal_Test/Content/IA_CameraSwitch.uasset"
+			]
+		}
+	]
+}
