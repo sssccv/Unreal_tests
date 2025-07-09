@@ -1,7 +1,10 @@
 # Unreal_tests
 On this repository i'll be testing things on unreal engine 5S
 
-# Camera switch
+# _Camera switch_
 C - Switch Camera from third to first person
 
-- [Link to the video](/img/Camera%20Switch.mp4)
+### **Here is a photo of the third person view**
+![Third](/img/Third.png)
+### **And Here is a photo of the first person view**
+![First](/img/First.png)
