@@ -1,5 +1,5 @@
 # Unreal_tests
-On this repository i'll be testing things on unreal engine 5S
+On this repository i'll be testing things on unreal engine 5
 
 # _Camera switch_
 C - Switch Camera from third to first person
